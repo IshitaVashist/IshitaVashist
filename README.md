@@ -76,10 +76,11 @@
 
 ---
 
-## 📜 Certifications
-- **Kubernetes Basics** 
-- **Next.js Advanced** 
+## 📜 Certifications 
 - **Full-Stack Development Bootcamp**
+- **Full-Stack Web-Development MasterClass**
+- **AWS Academy Graduate - AWS Academy Cloud Foundation**
+- **Complete JavaScript,JQuery and React**
 
 ---
 
