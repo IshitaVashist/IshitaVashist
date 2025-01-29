@@ -37,15 +37,18 @@
 
 ## 🔗 My Projects
 
-- **TripUs**  
+**[TripUs](https://github.com/IshitaVashist/TripUs/blob/main/README.md)**  
   🌍 A travel-based web application to explore destinations, manage trips, and book accommodations.  
   [![View Repository](https://img.shields.io/badge/Repo-View%20TripUs-blue?style=flat-square)](https://github.com/IshitaVashist/TripUs.git)  
-  **Languages:** HTML, CSS, ReactJS, NodeJS, Python, SQL
+**Languages:** HTML, CSS, ReactJS, NodeJS, Python, SQL
 
-- **LuxCarServices**  
+
+**[LuxCarServices](https://github.com/IshitaVashist/LuxCarServices/blob/main/README.md)**  
+
   🚗 A luxury car rental service platform offering seamless booking and management.  
   [![View Repository](https://img.shields.io/badge/Repo-View%20LuxCarServices-blue?style=flat-square)](https://github.com/IshitaVashist/LuxCarServices.git)  
-  **Languages:** <!-- Add languages later here -->
+**Languages:** HTML,CSS,Tailwind,React.js,Node.js,Postgresql,TypeScript,JavaScript
+
 
 ---
 
