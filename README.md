@@ -12,6 +12,7 @@
 ## 💻 Currently Working On:
 - 🌟 Building scalable and secure web applications
 - 🔑 Designing authentication and authorization systems for modern apps
+- 🚀 Started working on a RESTful API to enhance back-end development skills and streamline communication between client and server
 
 <img align="center" src="https://img.icons8.com/ios/100/000000/kubernetes.png" alt="Kubernetes" width="80" height="80" /><img align="center" src="https://img.icons8.com/fluency/100/000000/nextjs.png" alt="Next.js" width="80" height="80" /><img align="center" src="https://img.icons8.com/color/100/000000/javascript.png" alt="NextAuth.js" width="80" height="80" />
 
