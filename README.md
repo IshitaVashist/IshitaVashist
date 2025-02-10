@@ -38,16 +38,26 @@
 
 ## 🔗 My Projects
 
-**[TripUs](https://github.com/IshitaVashist/TripUs/blob/main/README.md)**  
+**TRIP-US**
   🌍 A travel-based web application to explore destinations, manage trips, and book accommodations.  
-  [![View Repository](https://img.shields.io/badge/Repo-View%20TripUs-blue?style=flat-square)](https://github.com/IshitaVashist/TripUs.git)  
+<div align="left">
+  <a href="https://github.com/IshitaVashist/TripUs.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Trip-Us&logo=github&label=&color=181717&logoColor=red&labelColor=&style=for-the-badge" height="30" alt="TripUS GitHub Repo" />
+  </a>
+</div>
+
 **Languages:** HTML, CSS, ReactJS, NodeJS, Python, SQL
 
 
-**[LuxCarServices](https://github.com/IshitaVashist/LuxCarServices/blob/main/README.md)**  
+**Lux-Car-Services** 
 
   🚗 A luxury car rental service platform offering seamless booking and management.  
-  [![View Repository](https://img.shields.io/badge/Repo-View%20LuxCarServices-blue?style=flat-square)](https://github.com/IshitaVashist/LuxCarServices.git)  
+  <div align="left">
+  <a href="https://github.com/IshitaVashist/LuxCarServices.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Lux-Car-Services&logo=github&label=&color=181717&logoColor=red&labelColor=&style=for-the-badge" height="30" alt="Lux-Car-Services GitHub Repo" />
+  </a>
+</div>
+
 **Languages:** HTML,CSS,Tailwind,React.js,Node.js,Postgresql,TypeScript,JavaScript
 
 
