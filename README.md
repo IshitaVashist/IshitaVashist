@@ -27,7 +27,7 @@
 ---
 
 ## 🏆 Achievements
-- 🚀 Built and deployed scalable MERN applications like **TripUs** and **LuxCarServices**.
+- 🚀 Built and deployed scalable MERN applications like **UV-Detector Application** and a social media information gathering application - **Socials**.
 - 🔑 Designed secure authentication systems with **NextAuth.js**, **JWT**, and **OAuth2.0**.
 - 📊 Improved application performance by 45% through optimization.
 - 🎓 2023 Computer Science Graduate with a strong foundation in algorithms and problem-solving.
