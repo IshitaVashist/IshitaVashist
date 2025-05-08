@@ -10,9 +10,10 @@
 ---
 
 ## 💻 Currently Working On:
+- 👩‍💻 A Total of 1.5 years of experience.
 - 🌟 Building scalable web applications and working on data pipelines.
 - 🔑 Designed secure authentication and authorization systems for modern apps, integrating Python and SQL-based ETL pipelines for real-time security log analysis and access control auditing.
-- 🚀 Started working on a RESTful API to enhance back-end development skills and streamline communication between client and server
+- 🚀 Started working on a RESTful API to enhance back-end development skills and streamline communication between client and server.
 
 <img align="center" src="https://img.icons8.com/ios/100/000000/kubernetes.png" alt="Kubernetes" width="80" height="80" /><img align="center" src="https://img.icons8.com/fluency/100/000000/nextjs.png" alt="Next.js" width="80" height="80" /><img align="center" src="https://img.icons8.com/color/100/000000/javascript.png" alt="NextAuth.js" width="80" height="80" />
 
@@ -30,7 +31,6 @@
 - 🚀 Built and deployed scalable MERN applications like **UV-Detector Application** and a social media information gathering application - **Socials**.
 - 🔑 Designed secure authentication systems with **NextAuth.js**, **JWT**, and **OAuth2.0**.
 - 📊 Improved application performance by 45% through optimization.
-- 🎓 2023 Computer Science Graduate with a strong foundation in algorithms and problem-solving.
 - 🎮 Created interactive games to enhance user engagement.
 - 🌟 Contributed to real-world projects during my internships, delivering responsive frontends and efficient backends.
 
